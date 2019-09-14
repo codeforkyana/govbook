@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - lts/*
-install: yarn
+install: npm install
 script: make public
 deploy:
   provider: s3
