@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/codeforkyana/govbook.svg?branch=master)](https://travis-ci.com/codeforkyana/govbook)
+
 <h1 align="center">
     Gov Book
 </h1>
