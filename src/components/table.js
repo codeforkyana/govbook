@@ -235,7 +235,7 @@ class Table extends React.Component {
         >
           <div>
             <div className="table-foot-logo">
-              <a href="https://www.chicagoreporter.com"><img src={logo} alt={intl.formatMessage({ id: "author" })} /></a>
+              <a href="https://codeforkentuckiana.org"><img src={logo} alt={intl.formatMessage({ id: "author" })} /></a>
 
               <div className="footer-state">
                 {(scrollOffset < LOGO_HEIGHT && !filter) && (<>

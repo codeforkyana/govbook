@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { injectIntl } from "gatsby-plugin-intl"
 
-const IMAGEURL = "https://govbook.chicagoreporter.com/social-image.png"
+const IMAGEURL = "https://codeforkentuckiana.org/img/cfk-logo.png"
 
 function SEO({ intl, meta, contact }) {
   const description = (contact.Code) ?

@@ -1,9 +1,9 @@
 {
-  "title": "govbook.chicagoreporter.com",
+  "title": "govbook.codeforkentuckiana.org",
   "shortTitle": "GovBook",
-  "author": "The Chicago Reporter",
+  "author": "Code for Kentuckiana",
 
-  "description": "Your source for local government contacts in Illinois.",
+  "description": "Your source for local government contacts in Kentucky.",
   "unitSocialDescription": "Get contact information for {UnitName} {Description} from GovBook.",
   "unitTitle": "{UnitName} {Description}",
 
@@ -14,9 +14,9 @@
   },
 
   "welcomeMessage": {
-    "sourceLine": "Last updated: {lastUpdated}, Source: Illinois Comptroller",
+    "sourceLine": "Last updated: {lastUpdated}",
     "moreLink": "About GovBook",
-    "description": "GovBook is your source for contact information for officials in every unit of government in Illinois.",
+    "description": "GovBook is your source for contact information for officials in every unit of government in Kentucky.",
     "downloadLink": "Download the data"
   },
 
@@ -33,7 +33,7 @@
     "county": "County",
     "contacts": "Executive",
     "filterMessage": "{results} units out of {total}",
-    "callToAction": "Contact officials from {total} government units in Illinois"
+    "callToAction": "Contact officials from {total} government units in Kentucky"
   },
 
   "unitLabels": {

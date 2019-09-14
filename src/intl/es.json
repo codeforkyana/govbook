@@ -1,9 +1,9 @@
 {
-  "title": "govbook.chicagoreporter.com",
+  "title": "govbook.codeforkentuckiana.org",
   "shortTitle": "GovBook",
-  "author": "The Chicago Reporter",
+  "author": "Code for Kentuckiana",
 
-  "description": "Su fuente para contactar a gobiernos locales en Illinois.",
+  "description": "Su fuente para contactar a gobiernos locales en Kentucky.",
   "unitSocialDescription": "Obtenga datos para comunicarse con {UnitName} {Description} de GovBook.",
   "unitTitle": "{UnitName} {Description}",
 
@@ -14,9 +14,9 @@
   },
 
   "welcomeMessage": {
-    "sourceLine": "Última actualización: {lastUpdated}, Fuente: Illinois Comptroller",
+    "sourceLine": "Última actualización: {lastUpdated}",
     "moreLink": "Aerca de GovBook",
-    "description": "GovBook es su fuente para contactar a oficiales en cada unidad de gobierno local en Illinois.",
+    "description": "GovBook es su fuente para contactar a oficiales en cada unidad de gobierno local en Kentucky.",
     "downloadLink": "Descargar la data"
   },
 
@@ -33,7 +33,7 @@
     "county": "Condado",
     "contacts": "Ejecutivo",
     "filterMessage": "{results} unidades de un total de {total}",
-    "callToAction": "Contacte oficiales de {total} unidades de gobierno en Illinois"
+    "callToAction": "Contacte oficiales de {total} unidades de gobierno en Kentucky"
   },
 
   "unitLabels": {
