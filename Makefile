@@ -19,10 +19,6 @@
 #
 ################################################################################
 
-# Include .env configuration
-include .env
-export
-
 DOWNLOAD_DIRECTORIES = downloads
 PROCESSED_DIRECTORIES = processed
 
